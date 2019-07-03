@@ -1,0 +1,64 @@
+body {
+    width: 100%;
+    height: 50px;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    font-family: "Kill The Noise(RUS BY LYAJKA)"; /* Меняет шрифт */
+    font-size: 40px; /* Размер текста */
+    text-align: center; /* Выравнивание текста */
+}
+h1 {
+    font-size: 150px;
+    transform: translate(0px,-80px);
+}
+h2 {
+    font-size: 50px;
+    text-align: center;
+    transform: translate(640px,-180px);
+}
+h3 {
+    font-size: 50px;
+    text-align: center;
+    transform: translate(-550px,-287px);
+}
+.osnova {
+    transform: translate(0px,-350px); /* Двигает по осям */
+    display: block; margin:0 auto; /* Выравнивает изображение по центру */
+}
+.osnova1 {
+    display: block; margin:0 auto;
+    transform: translate(-550px,-700px)
+}
+.osnova2 {
+     display: block; margin:0 auto;
+    transform: translate(650px,-949px)
+
+}
+u1 {
+    font-family: "Road Rage(RUS BY LYAJKA)";
+}
+article {
+    font-size: 15px;
+    text-align: center;
+    transform: translate(0px, -1350px);
+}
+section {
+    font-family: -apple-system;
+    font-size: 17px;
+    transform: translate(0px, -50px);
+}
+h4 {
+    font-family: "Kill The Noise(RUS BY LYAJKA)";
+    font-size: 20px;
+    transform: translate(0px, -765px);
+}
+.ss1 {
+    transform: translate(340px,-813px);
+}
+.ss2 {
+    transform: translate(290px,-850px);
+
+}
